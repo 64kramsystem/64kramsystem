@@ -1,7 +1,7 @@
 # GitHub Profile
 
 Professional blog: https://saveriomiroddi.github.io</br>
-Development journal: https://github.com/64kramsystem/personal_notes/blob/master/extra/brojournal.md</br>
+Development journal: https://github.com/64kramsystem/personal_notes/blob/master/journal/brojournal.md</br>
 Engineering notes: https://github.com/64kramsystem/personal_notes
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
