@@ -2,7 +2,7 @@
 
 Professional blog: https://saveriomiroddi.github.io</br>
 Development journal: https://github.com/64kramsystem/personal_notes/blob/master/journal/brojournal.md</br>
-Engineering notes: https://github.com/64kramsystem/personal_notes
+Engineering notes (topics): https://github.com/64kramsystem/personal_notes/tree/master/topics
 
 <!--
 Cheesiness warning!
