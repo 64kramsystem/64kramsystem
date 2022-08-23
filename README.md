@@ -15,6 +15,7 @@ Main projects:
 
 Other projects:
 
+- [Serdine](https://github.com/64kramsystem/serdine) (2022-): Tiny Rust serialization library for storing types in a raw (but safe), memcpy-like, format
 - [Poor Man's Spotlight](https://github.com/64kramsystem/pm-spotlight) (2022-): A minimal desktop search service, written in Rust, for personal use
 - [parsec-riscv-performance-testing](https://github.com/64kramsystem/parsec-riscv-performance-testing) (2021): Shell programs to automatedly setup and run the PARSEC benchmarks on an emulated RISC-V environment
 - [Geet](https://github.com/64kramsystem/geet) (2017-): hub-like tool, written in Ruby, to manage Github/Gitlab functionalities via terminal
