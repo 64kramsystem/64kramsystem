@@ -6,6 +6,7 @@ Engineering notes (topics): https://github.com/64kramsystem/personal_notes/tree/
 
 Main projects:
 
+- [Catacomb II-64k](https://github.com/64kramsystem/catacomb_ii-64k) (WIP): Port of the early John Carmack's game, transpiled from C via C2Rust first, then converted to safe Rust
 - [Rust Game Ports](https://github.com/rust-gamedev/rust-game-ports) (2022): Port of four PyGame games to four Rust game engines; donated to the Rust Gamedev Working Group, to be a reference for the community
 - [To Pin or Not to Pin: Asserting the Scalability of QEMU Parallel Implementation](https://hal.archives-ouvertes.fr/hal-03417343) (2021): Research paper I've coauthored, on QEMU scalability on different systems
 - [Friends let real friends use MySQL 8.0](https://github.com/64kramsystem/prefosdem-2020-presentation) (2020): My MySQL presentation at the preFOSDEM 2020, on the MySQL 8.0 topic; rendered slides [here](https://www.slideshare.net/SaverioM/friends-let-real-friends-use-mysql-80)
