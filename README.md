@@ -20,6 +20,7 @@ Other projects:
 - [Poor Man's Spotlight](https://github.com/64kramsystem/pm-spotlight) (2022-): A minimal desktop search service, written in Rust, for personal use
 - [parsec-riscv-performance-testing](https://github.com/64kramsystem/parsec-riscv-performance-testing) (2021): Shell programs to automatedly setup and run the PARSEC benchmarks on an emulated RISC-V environment
 - [Geet](https://github.com/64kramsystem/geet) (2017-): hub-like tool, written in Ruby, to manage Github/Gitlab functionalities via terminal
+- [VGA Passthrough Guide](https://github.com/64kramsystem/vga-passthrough)(2017-2021): A detailed guide about passing through GPUs via QEMU/VFIO
 - [Palware](https://github.com/64kramsystem/palware)(2017-2019): Disassemblies, done for fun, of DOS-era malware
 - [Spreadbase](https://github.com/64kramsystem/spreadbase) (2012-): Ruby library to access OpenDocument 1.2 (ie. Libreoffice Calc) spreadsheets
 
