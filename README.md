@@ -7,12 +7,12 @@ Engineering notes (topics): https://github.com/64kramsystem/personal_notes/tree/
 Main projects:
 
 - [Catacomb II-64k](https://github.com/64kramsystem/catacomb_ii-64k) (2022): Port of the early John Carmack's game, transpiled first from C to unsafe Rust (via C2Rust), then to safe Rust
-- [Rust Game Ports](https://github.com/rust-gamedev/rust-game-ports) (2022): Port of four PyGame games to four Rust game engines; donated to the Rust Gamedev Working Group, to be a reference for the community
+- [Rust Game Ports](https://github.com/rust-gamedev/rust-game-ports) (2022-): I wrote the first ports, and now administer, the official community project for Rust game ports
 - [To Pin or Not to Pin: Asserting the Scalability of QEMU Parallel Implementation](https://hal.archives-ouvertes.fr/hal-03417343) (2021): Research paper I've coauthored, on QEMU scalability on different systems
 - [Friends let real friends use MySQL 8.0](https://github.com/64kramsystem/prefosdem-2020-presentation) (2020): My MySQL presentation at the preFOSDEM 2020, on the MySQL 8.0 topic; rendered slides [here](https://www.slideshare.net/SaverioM/friends-let-real-friends-use-mysql-80)
-- [ZFS Installer](https://github.com/64kramsystem/zfs-installer) (2019-): Shell program to prepare ZFS on a system, and install Debian-based distros; popular among ZFS users
+- [ZFS Installer](https://github.com/64kramsystem/zfs-installer) (2019-2023): Shell program to prepare ZFS on a system, and install Debian-based distros; popular among ZFS users
 - [QEMU-pinning](https://github.com/64kramsystem/qemu-pinning) (2017-): Small fork of QEMU, with pinning support, and minor tweaks; base for my coauthored paper "To Pin or Not to Pin: Asserting the Scalability of QEMU Parallel Implementation"
-- [Professional blog](https://saveriomiroddi.github.io) (2017-)
+- [Professional blog](https://saveriomiroddi.github.io) (2017-2023)
 
 Other projects:
 
