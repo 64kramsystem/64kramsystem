@@ -1,11 +1,14 @@
 # GitHub Profile
 
+I’m the systems tech lead, database specialist, backend programmer, and data model reverse engineer at Ticketsolve. I have an extensive involvement in open source, and I've maintained a popular technical blog. I'm also a Rust programmer, official member of the Rust Game Development Working Group.
+
 Professional blog: https://saveriomiroddi.github.io</br>
 Development journal: https://github.com/64kramsystem/personal_notes/blob/master/journal/brojournal.md</br>
 Engineering notes (topics): https://github.com/64kramsystem/personal_notes/tree/master/topics</br>
 
 Main projects:
 
+- ActiveTrigger (est. release: late 2023): Tech/team lead; callback system for Rails (potentially other frameworks), based on database triggers
 - [Catacomb II-64k](https://github.com/64kramsystem/catacomb_ii-64k) (2022): Port of the early John Carmack's game, used to examine the transpilation of a complex program from C to unsafe, then safe, Rust
 - [Rust Game Ports](https://github.com/rust-gamedev/rust-game-ports) (2022-): Author and maintainer of a set of ports of games to Rust libraries, used as public reference; official community project of the Rust Game Development Working Group
 - [To Pin or Not to Pin: Asserting the Scalability of QEMU Parallel Implementation](https://hal.archives-ouvertes.fr/hal-03417343) (2021): Research paper I've coauthored, on QEMU scalability on different systems
