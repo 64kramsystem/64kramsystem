@@ -8,8 +8,7 @@ Engineering notes (topics): https://github.com/64kramsystem/personal_notes/tree/
 
 Main projects:
 
-- ActiveTrigger (2022-): Tech/team lead; callback system for Rails (potentially other frameworks), based on database triggers
-- [Rust Game Ports](https://github.com/rust-gamedev/rust-game-ports) (2022-): Author and maintainer of a set of ports of games to Rust libraries, used as public reference; official community project of the Rust Game Development Working Group
+- [Rust Game Ports](https://github.com/rust-gamedev/rust-game-ports) (2022): Author and maintainer of a set of ports of games to Rust libraries, used as public reference; official community project of the Rust Game Development Working Group
 - [QEMU-pinning](https://github.com/64kramsystem/qemu-pinning) (2017-): Small fork of QEMU, with pinning support, and minor tweaks; base for my coauthored paper "To Pin or Not to Pin: Asserting the Scalability of QEMU Parallel Implementation"
 - [Catacomb II-64k](https://github.com/64kramsystem/catacomb_ii-64k) (2022): Port of the early John Carmack's game, used to examine the transpilation of a complex program from C to unsafe, then safe, Rust
 - [To Pin or Not to Pin: Asserting the Scalability of QEMU Parallel Implementation](https://hal.archives-ouvertes.fr/hal-03417343) (2021): Research paper I've coauthored, on QEMU scalability on different systems
@@ -19,7 +18,7 @@ Main projects:
 
 Other projects:
 
-- [Geet](https://github.com/64kramsystem/geet) (2017-): hub-like tool, written in Ruby, to manage Github/Gitlab functionalities via terminal
+- [Geet](https://github.com/64kramsystem/geet) (2017-): hub-like tool, written in Ruby, to manage Github (and previously Gitlab) functionalities via terminal
 - [Serdine](https://github.com/64kramsystem/serdine) (2022): Tiny Rust serialization library for storing types in a raw (but safe), memcpy-like, format
 - [Poor Man's Spotlight](https://github.com/64kramsystem/pm-spotlight) (2022): A minimal desktop search service, written in Rust, for personal use
 - [parsec-riscv-performance-testing](https://github.com/64kramsystem/parsec-riscv-performance-testing) (2021): Shell programs to automatedly setup and run the PARSEC benchmarks on an emulated RISC-V environment
