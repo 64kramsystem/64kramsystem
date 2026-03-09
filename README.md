@@ -9,11 +9,12 @@ Engineering notes (topics): https://github.com/64kramsystem/personal_notes/tree/
 Main projects:
 
 - [Rust Game Ports](https://github.com/rust-gamedev/rust-game-ports) (2022): Author and maintainer of a set of ports of games to Rust libraries, used as public reference; official community project of the Rust Game Development Working Group
-- [QEMU-pinning](https://github.com/64kramsystem/qemu-pinning) (2017-): Small fork of QEMU, with pinning support, and minor tweaks; base for my coauthored paper "To Pin or Not to Pin: Asserting the Scalability of QEMU Parallel Implementation"
 - [Catacomb II-64k](https://github.com/64kramsystem/catacomb_ii-64k) (2022): Port of the early John Carmack's game, used to examine the transpilation of a complex program from C to unsafe, then safe, Rust
 - [To Pin or Not to Pin: Asserting the Scalability of QEMU Parallel Implementation](https://hal.archives-ouvertes.fr/hal-03417343) (2021): Research paper I've coauthored, on QEMU scalability on different systems
 - [Friends let real friends use MySQL 8.0](https://github.com/64kramsystem/prefosdem-2020-presentation) (2020): My MySQL presentation at the preFOSDEM 2020, on the MySQL 8.0 topic; rendered slides [here](https://www.slideshare.net/SaverioM/friends-let-real-friends-use-mysql-80)
 - [ZFS Installer](https://github.com/64kramsystem/zfs-installer) (2019-2022): Shell program to prepare ZFS on a system, and install Debian-based distros; popular among ZFS users
+- [QEMU-pinning](https://github.com/64kramsystem/qemu-pinning) (2017-): Small fork of QEMU, with pinning support, and minor tweaks; base for my coauthored paper "To Pin or Not to Pin: Asserting the Scalability of QEMU Parallel Implementation"
+- [Palware](https://github.com/64kramsystem/palware)(2017-): Disassemblies, done for fun, of DOS-era malware
 - [Professional blog](https://saveriomiroddi.github.io) (2017-2022)
 
 Other projects:
@@ -24,7 +25,6 @@ Other projects:
 - [parsec-riscv-performance-testing](https://github.com/64kramsystem/parsec-riscv-performance-testing) (2021): Shell programs to automatedly setup and run the PARSEC benchmarks on an emulated RISC-V environment
 - [Ray Tracer Challenge](https://github.com/64kramsystem/ray_tracer_challenge-completed): (\~2021): My parallel Rust implementation of the Ray Tracer Challenger (a Whitted ray tracer), used to learn the language
 - [VGA Passthrough Guide](https://github.com/64kramsystem/vga-passthrough)(2017-2021): A detailed guide about passing through GPUs via QEMU/VFIO
-- [Palware](https://github.com/64kramsystem/palware)(2017-2019): Disassemblies, done for fun, of DOS-era malware
 - [Spreadbase](https://github.com/64kramsystem/spreadbase) (2012-2021): Ruby library to access OpenDocument 1.2 (ie. Libreoffice Calc) spreadsheets
 
 <!--
