@@ -6,7 +6,7 @@ Professional blog: https://saveriomiroddi.github.io</br>
 Development journal: https://github.com/64kramsystem/personal_notes/blob/master/journal/brojournal.md</br>
 Engineering notes (topics): https://github.com/64kramsystem/personal_notes/tree/master/topics</br>
 
-Main projects:
+Main projects (no AI involved):
 
 - [Rust Game Ports](https://github.com/rust-gamedev/rust-game-ports) (2022): Author and maintainer of a set of ports of games to Rust libraries, used as public reference; official community project of the Rust Game Development Working Group
 - [Catacomb II-64k](https://github.com/64kramsystem/catacomb_ii-64k) (2022): Port of the early John Carmack's game, used to examine the transpilation of a complex program from C to unsafe, then safe, Rust
