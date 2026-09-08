@@ -6,8 +6,6 @@ Professional blog: https://saveriomiroddi.github.io</br>
 Development journal: https://github.com/64kramsystem/personal_notes/blob/master/journal/brojournal.md</br>
 Engineering notes (topics): https://github.com/64kramsystem/personal_notes/tree/master/topics</br>
 
-No AI is involved, unless where specified.
-
 Main projects:
 
 - [Rust Game Ports](https://github.com/rust-gamedev/rust-game-ports) (2022): Author and maintainer of a set of ports of games to Rust libraries, used as public reference; official community project of the Rust Game Development Working Group
@@ -28,6 +26,8 @@ Other projects:
 - [Ray Tracer Challenge](https://github.com/64kramsystem/ray_tracer_challenge-completed): (\~2021): My parallel Rust implementation of the Ray Tracer Challenger (a Whitted ray tracer), used to learn the language
 - [VGA Passthrough Guide](https://github.com/64kramsystem/vga-passthrough)(2017-2021): A detailed guide about passing through GPUs via QEMU/VFIO
 - [Spreadbase](https://github.com/64kramsystem/spreadbase) (2012-2021): Ruby library to access OpenDocument 1.2 (ie. Libreoffice Calc) spreadsheets
+
+All the projects listed above have been developed without any AI assistance up to 2025 (included).
 
 <!--
 Cheesiness warning!
